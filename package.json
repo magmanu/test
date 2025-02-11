@@ -1,0 +1,19 @@
+{
+  "name": "time-travel-advice",
+  "version": "1.0.0",
+  "description": "A vulnerable time travel advice API with a solarpunk retrofuturistic frontend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.19"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
